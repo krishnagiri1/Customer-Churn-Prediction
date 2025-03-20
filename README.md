@@ -1,3 +1,5 @@
+
+>>>>>>> dc94af4 (Updated README with dataset link and clean formatting)
 # Customer Churn Prediction
 
 This project is focused on predicting customer churn for a telecom company using various machine learning techniques. The project demonstrates an end-to-end Data Science pipeline including data preprocessing, modeling, evaluation, and deployment through a Flask web application.
@@ -134,6 +136,6 @@ joblib==1.1.0
 Connect with me on LinkedIn:
 
 [Venkata Krishna Giri Koneru](https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/)
+<<<<<<< HEAD
 
 ---
-
