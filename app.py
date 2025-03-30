@@ -6,8 +6,8 @@ import joblib
 app = Flask(__name__)
 
 # Load Trained Model & Scaler
-model = joblib.load('churn_model_optimized.pkl')
-scaler = joblib.load('scaler.pkl')
+model = joblib.load('deployment/churn_model_optimized.pkl')
+scaler = joblib.load('deployment/scaler.pkl')
 
 # Define feature order as per model
 feature_order = [
