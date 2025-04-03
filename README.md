@@ -97,6 +97,10 @@ Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - Input numeric values (Tenure, Monthly Charges, Total Charges)
 - Click **Predict** to get churn prediction.
 
+### 🌐 Live Web App
+Try the deployed version here:  
+👉 [Customer Churn Prediction Web App (Render)](https://customer-churn-prediction-23n1.onrender.com/)
+
 ---
 
 ## 📸 Web App Screenshot
