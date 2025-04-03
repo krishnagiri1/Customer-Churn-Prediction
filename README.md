@@ -140,6 +140,6 @@ joblib==1.1.0
 Connect with me on LinkedIn:
 
 [Venkata Krishna Giri Koneru](https://www.linkedin.com/in/venkata-krishna-giri-koneru-6625101a9/)
-<<<<<<< HEAD
+
 
 ---
