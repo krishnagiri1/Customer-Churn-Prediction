@@ -2,6 +2,8 @@
 >>>>>>> dc94af4 (Updated README with dataset link and clean formatting)
 # Customer Churn Prediction
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=render&logoColor=white)](https://customer-churn-prediction-23n1.onrender.com/)
+
 This project is focused on predicting customer churn for a telecom company using various machine learning techniques. The project demonstrates an end-to-end Data Science pipeline including data preprocessing, modeling, evaluation, and deployment through a Flask web application.
 
 ---
