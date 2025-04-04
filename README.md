@@ -145,3 +145,7 @@ Connect with me on LinkedIn:
 
 
 ---
+
+
+[![Watch the Demo](https://github.com/krishnagiri1/Customer-Churn-Prediction/blob/main/output.gif?raw=true)](https://fanciful-figolla-b75344.netlify.app/)
+
